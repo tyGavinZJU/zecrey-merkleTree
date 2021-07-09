@@ -4,7 +4,7 @@ package test
 import (
 	"testing"
 
-	"github.com/Zecrey-Labs/go-merkle/db"
+	"github.com/Zecrey-Labs/zecrey-merkletree/db"
 	"github.com/stretchr/testify/assert"
 )
 

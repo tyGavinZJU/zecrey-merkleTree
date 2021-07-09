@@ -1,7 +1,7 @@
 package leveldb
 
 import (
-"github.com/Zecrey-Labs/go-merkle/db"
+"github.com/Zecrey-Labs/zecrey-merkletree/db"
 "github.com/syndtr/goleveldb/leveldb"
 "github.com/syndtr/goleveldb/leveldb/errors"
 "github.com/syndtr/goleveldb/leveldb/opt"

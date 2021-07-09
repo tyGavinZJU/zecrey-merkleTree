@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Zecrey-Labs/go-merkle/db"
-	"github.com/Zecrey-Labs/go-merkle/db/test"
+	"github.com/Zecrey-Labs/zecrey-merkletree/db"
+	"github.com/Zecrey-Labs/zecrey-merkletree/db/test"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,4 +1,4 @@
-module github.com/Zecrey-Labs/go-merkle
+module github.com/Zecrey-Labs/zecrey-merkletree
 
 go 1.15
 
